@@ -43,6 +43,12 @@ img {
     gap: 15px;
 }
 
+.text-column {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
 .text-box {
     text-align: left;
     max-width: 380px;
